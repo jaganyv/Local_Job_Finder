@@ -25,6 +25,13 @@ A comprehensive job marketplace application built with Spring Boot (Backend) and
 - ✅ Delete fake accounts
 - ✅ View platform analytics (users, jobs, applications)
 
+<img width="1904" height="984" alt="Screenshot from 2025-11-26 11-20-20" src="https://github.com/user-attachments/assets/73e2da42-bb42-4b5a-8978-ce2af5a0dbc7" />
+<img width="1904" height="984" alt="Screenshot from 2025-11-26 11-20-26" src="https://github.com/user-attachments/assets/86d29c3b-b9fc-4b8e-baa3-26d4892be035" />
+<img width="1904" height="984" alt="Screenshot from 2025-11-26 11-20-31" src="https://github.com/user-attachments/assets/b78257ad-64e2-4025-b006-f047b3c26e1a" />
+<img width="1904" height="984" alt="Screenshot from 2025-11-26 11-20-36" src="https://github.com/user-attachments/assets/c882e76d-7a61-4947-89cb-36f799c284e6" />
+
+
+
 ## 🛠️ Tech Stack
 
 ### Backend
